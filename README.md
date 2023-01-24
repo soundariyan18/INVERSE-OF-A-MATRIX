@@ -27,7 +27,7 @@ b= np.linalg.inv(a)
 print(b)
 ```
 ## Output:
-![model](output.png)
+![model](out.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
